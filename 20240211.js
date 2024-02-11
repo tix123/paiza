@@ -1,0 +1,1 @@
+lines[0] = Math.floor(Number(lines[0]) / 80)
